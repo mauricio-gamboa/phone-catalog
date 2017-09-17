@@ -1,0 +1,64 @@
+{
+    "_id": {
+        "$oid": "59b486234fa19e4f0b74b803"
+    },
+    "title": "iPhone 7",
+    "image": "https://www.o2.co.uk/shop/homepage/images/shop15/brand/apple/iphone7/apple-iphone-7-gallery-img-3.jpg",
+    "color": "white",
+    "description": "This is 7. And it's better than ever. View all the technical specifications and see what's new on iPhone 7 and iPhone 7 Plus.",
+    "price": [
+        600
+    ],
+    "createdDate": {
+        "$date": "2017-09-10T00:24:03.854Z"
+    },
+    "__v": 0
+}
+{
+    "_id": {
+        "$oid": "59bd4db429914791cb9729d3"
+    },
+    "title": "iPhone X",
+    "image": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/9244505/iphonexui.jpg",
+    "color": "black",
+    "description": "iPhone X features a new all-screen design. Face ID, which makes your face your password. And the most powerful and smartest chip ever in a smartphone.",
+    "price": [
+        999
+    ],
+    "createdDate": {
+        "$date": "2017-09-16T16:13:40.318Z"
+    },
+    "__v": 0
+}
+{
+    "_id": {
+        "$oid": "59bd4e0629914791cb9729d4"
+    },
+    "title": "Huawei P10",
+    "image": "https://i.expansys.net/i/b/b299983-2.jpg",
+    "color": "black",
+    "description": "HUAWEI P10 sets an industry benchmark for style and craftsmanship with the first hyper diamond-cut finishing on a smartphone, which adds strength and colour. Finishes also available in high gloss and sandblast.",
+    "price": [
+        699
+    ],
+    "createdDate": {
+        "$date": "2017-09-16T16:15:02.207Z"
+    },
+    "__v": 0
+}
+{
+    "_id": {
+        "$oid": "59bd5d8929914791cb9729d5"
+    },
+    "title": "Samsung Galaxy S8",
+    "image": "http://s7d2.scene7.com/is/image/SamsungUS/S8_Black_front?$product-details-jpg$",
+    "color": "Golden",
+    "description": "The Galaxy S8 and S8+ have a new form factor for a new mobile experience. It begins with the Infinity Display.",
+    "price": [
+        799
+    ],
+    "createdDate": {
+        "$date": "2017-09-16T17:21:13.226Z"
+    },
+    "__v": 0
+}

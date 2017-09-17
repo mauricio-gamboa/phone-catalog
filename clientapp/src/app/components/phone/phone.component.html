@@ -1,0 +1,13 @@
+<md-expansion-panel class='mat-typography'>
+    <md-expansion-panel-header>
+        <md-panel-title>
+            <span>{{phone.title}}</span>
+        </md-panel-title>
+    </md-expansion-panel-header>
+    <img class='phone__image' src={{phone.image}} alt={{phone.title}}>
+    <div class='phone__description'>
+        <p><strong>Description:</strong> {{phone.description}}</p>
+        <p><strong>Price:</strong> ${{phone.price}}</p>
+        <p><strong>Color:</strong> <span class=phone__color>{{phone.color}}</span></p>
+    </div>
+</md-expansion-panel>

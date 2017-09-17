@@ -1,0 +1,12 @@
+.phone__image {
+    width: 100%;
+    margin: 20px 0;
+}
+
+.phone__description {
+    padding: 20px;
+}
+
+.phone__color {
+    text-transform: capitalize;
+}
