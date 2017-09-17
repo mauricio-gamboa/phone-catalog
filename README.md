@@ -2,7 +2,9 @@
 
 This is a web application that displays a phone catalog. It's based in Angular 4 and Ngrx for reacting programming, it also uses Mongo as the data base platform.
 
-TODO: Add images
+![Alt text](https://user-images.githubusercontent.com/934577/30525395-3543608c-9c06-11e7-854c-77128ffe4e33.png "Phones Closed")
+
+![Alt text](https://user-images.githubusercontent.com/934577/30525396-35487da6-9c06-11e7-9a1b-de2482627f80.png "Phone Opened")
 
 ## Instructions to run the application
 
